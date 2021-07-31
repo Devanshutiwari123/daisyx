@@ -16,7 +16,7 @@
 import asyncio
 import logging
 
-import spamwatch
+import spamWatch
 from aiogram import Bot, Dispatcher, types
 from aiogram.bot.api import TELEGRAM_PRODUCTION, TelegramAPIServer
 from aiogram.contrib.fsm_storage.redis import RedisStorage2
